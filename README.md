@@ -29,17 +29,6 @@ Writing Pro is a simple, intuitive writing environment that helps writers stay f
 
 ---
 
-## 📷 Screenshots (Optional)
-
-<!-- Add images if you want! You can upload screenshots and paste the image links below -->
-<p align="center">
-  <img src="screenshot-editor.png" width="600"/>
-  <br />
-  <i>Writing interface</i>
-</p>
-
----
-
 ## 📂 Project Structure
 - /templates → HTML templates (Jinja2)
 - /static → CSS and JavaScript

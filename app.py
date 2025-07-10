@@ -2,9 +2,13 @@ from flask import Flask, render_template, request, redirect, jsonify
 import sqlite3
 import language_tool_python
 import datetime
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = 'urmomlikesstraykidsandiwannaseeateezandenhypenbutnowimcrashingoutbcnycistoofaraway'
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'fallback-key-for-dev')
 
 @app.route('/')
 def index():
