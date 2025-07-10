@@ -69,7 +69,7 @@ Then open your local server in your browser.
 
 ## 🌍 Live Demo
 
-🔗 View the live app here
+🔗 [View the live app here](https://writingpro.onrender.com)
 
 ---
 
