@@ -1,4 +1,4 @@
-# 📝 Writing Pro – AI-Powered Writing Assistant
+# 📝 Writing Pro – A Writer's Playhouse
 
 Writing Pro is a simple, intuitive writing environment that helps writers stay focused, save their work, and get real-time grammar and style feedback — all in one place. Built with Flask and Python, it offers a clean interface, local draft saving, and smart writing suggestions to boost creativity and clarity.
 
